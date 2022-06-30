@@ -1,0 +1,4 @@
+-  Hi, I’m @8qwiz
+-  I’m interested in 
+-  I’m currently learning c++ and python
+-  How to reach me @8qwiz 
